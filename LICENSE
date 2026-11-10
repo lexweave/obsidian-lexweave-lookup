@@ -1,0 +1,39 @@
+LexWeave Lookup for Obsidian: Terms of Use
+
+Copyright (c) 2026 LexWeave. All rights reserved.
+
+These terms cover the LexWeave Lookup plugin for Obsidian (the "Plugin") as it
+is distributed here: the files main.js, manifest.json and styles.css attached
+to this repository's releases. The Plugin's source code is not published.
+
+1. Use. You may download, install and use the Plugin free of charge, on any
+   number of your devices.
+
+2. Nothing else is licensed. You may not modify, adapt or translate the
+   Plugin, make works based on it, or reverse engineer it except where the law
+   allows that despite this term. You may not copy or redistribute it, in whole
+   or in part, or publish it anywhere else. Linking to this repository, or to
+   the Plugin's page in Obsidian's community directory, is welcome.
+
+3. Google's services. The Plugin sends the text you choose to look up to
+   Google's services, using API keys that you create and enter yourself (see
+   the README). Your use of those services is under Google's terms, and any
+   charges for it are between you and Google.
+
+4. No warranty. The Plugin is provided "as is", without warranty of any kind,
+   express or implied, including the warranties of merchantability, fitness
+   for a particular purpose and non-infringement.
+
+5. No liability. To the extent the law allows, the authors and copyright
+   holders are not liable for any claim, damages or other liability arising
+   from the Plugin or its use.
+
+6. Names. These terms grant no right to use the LexWeave name or logo. The
+   Plugin is an independent project; it is not made or endorsed by Obsidian.
+
+7. Later versions of the Plugin may come with different terms. The terms that
+   come with a version are the ones that apply to it.
+
+A few small helper functions in main.js come from esbuild, the tool that
+bundles the Plugin, under esbuild's own licence. Its notice is in
+THIRD-PARTY-NOTICES.md; these terms do not cover that code.
