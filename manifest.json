@@ -1,7 +1,7 @@
 {
   "id": "lexweave-lookup",
   "name": "LexWeave Lookup",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "minAppVersion": "1.15.0",
   "description": "Look up English words, phrases and passages in context: meaning in your language, IPA, translation, read-aloud, and save to a review note.",
   "author": "LexWeave",
